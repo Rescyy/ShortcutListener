@@ -1,0 +1,1 @@
+g++ main.cpp keyHooks.cpp -o ShortcutListener.exe
